@@ -13,7 +13,8 @@
 **<h3 align="left">Skills</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-<img src="https://img.shields.io/badge/JavaScript-21232A?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"> 
 
 **<h3 align="left">Connect with me:</h3>**
 
